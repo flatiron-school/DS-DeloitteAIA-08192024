@@ -1,4 +1,4 @@
-# Architecting Pipelines with AWS
+# Architecting Pipelines and Pipeline Execution with AWS
 ##### [Source](https://docs.aws.amazon.com/sagemaker/latest/dg/define-pipeline.html)
 
 **Note:** *This lecture presupposes an adequate [AWS Overview](https://github.com/flatiron-school/DS-Deloitte-07062022-Architecting-Pipelines-with-AWS/blob/main/AWS%20Overview.md). Additionally, it is assumed that the [Pipeline Execution notebook](https://github.com/flatiron-school/DS-Deloitte-07062022-Architecting-Pipelines-with-AWS/blob/main/Pipeline%20Execution.ipynb) content will be discussed at the beginning of the [Pipeline Execution lecture](https://github.com/flatiron-school/DS-Deloitte-07062022-Pipeline-Execution-on-AWS).*
